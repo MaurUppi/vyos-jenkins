@@ -1,8 +1,3 @@
-***Fork and reasons for changes.***
-
-1. Unstable network connection from PRC to access git.kernel.org and fetch gpg pubic key via WKD.
-2. Download ixgbe and ixgbevf from sourceforge may redirect to a mirror site but file is 404 or unaccessable.  
-
 Prologue
 --
 
